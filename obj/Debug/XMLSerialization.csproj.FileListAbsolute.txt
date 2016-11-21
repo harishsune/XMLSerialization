@@ -1,0 +1,12 @@
+G:\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+G:\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+G:\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb
+G:\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csprojResolveAssemblyReference.cache
+G:\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+G:\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb
+G:\My Training\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+G:\My Training\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+G:\My Training\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb
+G:\My Training\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csprojResolveAssemblyReference.cache
+G:\My Training\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+G:\My Training\C#_Training_Harish_Sune\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb

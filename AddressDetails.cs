@@ -15,5 +15,15 @@ namespace XMLSerialization
         public string StreetName { get; set; }
         [XmlElement("CityName")]
         public string City { get; set; }
+
+        [XmlIgnore]
+        public Dictionary<string, string> AllSettings { get; set; }
+        
+    }
+    
+      public class Setting
+    {
+        public string Key;
+        public string Value;
     }
 }
